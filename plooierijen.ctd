@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Plooierijen" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="#ff0000" ts_creation="1680923944" ts_lastsave="1680925303">
+    <rich_text link="webs https://nl.wikipedia.org/wiki/Gelderse_Plooierijen">https://nl.wikipedia.org/wiki/Gelderse_Plooierijen</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text link="webs https://www.flickr.com/photos/196344556@N02/albums/72177720307328971">https://www.flickr.com/photos/196344556@N02/albums/72177720307328971</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text link="webs https://rhiannago.substack.com/p/onrust-na-dood-willem-iii">https://rhiannago.substack.com/p/onrust-na-dood-willem-iii</rich_text>
+    <rich_text>
+
+</rich_text>
+    <node name="Tholen" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1680924015" ts_lastsave="1680924024">
+      <node name="Hulst" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1680924024" ts_lastsave="1680924054">
+        <node name="Oudheidkundige kring" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1680924054" ts_lastsave="1680924054"/>
+      </node>
+    </node>
+    <node name="Rendezvous" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1680925303" ts_lastsave="1680925338">
+      <rich_text link="webs https://rendezvous.zone/?clubId=13fcc7bf5c15cfd71f5f9edfefc5f490286df0ae949fb3d1cc29b5627d54948f">https://rendezvous.zone/?clubId=13fcc7bf5c15cfd71f5f9edfefc5f490286df0ae949fb3d1cc29b5627d54948f</rich_text>
+      <rich_text>
+</rich_text>
+    </node>
+  </node>
+</cherrytree>
